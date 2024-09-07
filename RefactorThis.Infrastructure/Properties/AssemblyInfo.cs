@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("RefactorThis.Domain")]
+[assembly: AssemblyTitle("RefactorThis.Infrastructure")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("RefactorThis.Domain")]
+[assembly: AssemblyProduct("RefactorThis.Infrastructure")]
 [assembly: AssemblyCopyright("Copyright ©  2024")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("c623ad8e-3693-4bf9-a44a-6fe75ff6d02b")]
+[assembly: Guid("81ae23e3-b579-440c-b4c1-8d5376dffefc")]
 
 // Version information for an assembly consists of the following four values:
 //
